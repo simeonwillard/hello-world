@@ -5,6 +5,7 @@ git push origin master
 
 git branch learningfirst
 git checkout learningfirst
+git push origin learningfirst
 
 git fetch 
 git pull
